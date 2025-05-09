@@ -22,7 +22,7 @@ A useful Whatsapp bot to help manage group chats
 `KICK` Ejecting group members\
 `ADD` Add group members\
 \
-`FITUR TAMBAHAN`\
+`ADDITIONAL FEATURES`\
 `SEWA` Rent bots to groups\
 `CEKSEWA` Rent Check\
 `TAMBAH` Adding multiple numbers\
