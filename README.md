@@ -33,7 +33,7 @@ A useful Whatsapp bot to help manage group chats
 **_Request Feature? Chat Owner_**
 
 Price : **Rp85.000**\
-Rent : ***Start From Rp3.000**\
+Rent : **Start From Rp3.000**\
 **Interested in code? chat owner on whatsapp 62813 6809 4422**
 
 **Group Demo? JOIN 
