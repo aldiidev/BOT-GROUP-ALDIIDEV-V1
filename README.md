@@ -2,7 +2,7 @@
 A useful Whatsapp bot to help manage group chats
 
 ### BOT FEATURES :
-**MAIN FEATURES**
+**MAIN FEATURES**\
 `✅ HELP` View command list\
 `✅ LIST` View service list\
 `✅ HIDETAG` Tag All Group Members\
