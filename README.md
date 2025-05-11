@@ -1,4 +1,4 @@
-# BOT-GROUP-ALDIIDEV-V1
+# BOT-GROUP-V1
 A useful Whatsapp bot to help manage group chats
 
 ### BOT FEATURES :
