@@ -34,7 +34,7 @@ A useful Whatsapp bot to help manage group chats
 
 Price : **Rp85.000**\
 Rent : **Start From Rp3.000**\
-**Interested in code? chat owner on whatsapp 62813 6809 4422**
+**Interested in this code? contact owner on whatsapp 62813 6809 4422**
 
 **Group Demo? JOIN 
 https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9** \
