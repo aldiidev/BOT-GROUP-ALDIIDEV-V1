@@ -5,7 +5,7 @@ A useful Whatsapp bot to help manage group chats
 **MAIN FEATURES**\
 `✅ HELP` View command list\
 `✅ LIST` View service list\
-`✅ HIDETAG` Tag All Group Members\
+`✅ HIDETAG` Tag All Group Members
 
 `GROUP FEATURES`\
 `✅ AFK` Member info if you are AFK\
@@ -20,7 +20,7 @@ A useful Whatsapp bot to help manage group chats
 `✅ PROSES` Send order text process\
 `✅ DONE` Send order text done\
 `✅ KICK` Ejecting group members\
-`✅ ADD` Add group members\
+`✅ ADD` Add group members
 
 `ADDITIONAL FEATURES`\
 `✅ SEWA` Rent bots to groups\
@@ -28,7 +28,7 @@ A useful Whatsapp bot to help manage group chats
 `✅ TAMBAH` Adding multiple numbers\
 `✅ KURANG` Subtracting multiple numbers\
 `✅ KALI` Multiplying multiple numbers\
-`✅ BAGI` dividing multiple numbers\
+`✅ BAGI` dividing multiple numbers
 
 **_Request Feature? Chat Owner_**
 
@@ -37,7 +37,6 @@ Rent : **Start From Rp3.000**\
 **Interested in code? chat owner on whatsapp 62813 6809 4422**
 
 **Group Demo? JOIN 
-https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9**
-
+https://chat.whatsapp.com/Ll21cmSUGMWKCwDXG34Iz9** \
 **Group Store? JOIN
 https://chat.whatsapp.com/FkhzA0B8062HcWXki1A0jG**
