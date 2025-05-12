@@ -6,7 +6,7 @@ A useful Whatsapp bot to help manage group chats
 ```
 ✅ HELP - View command list
 ✅ LIST - View service list
-✅ HIETAG - Tag All Group Members
+✅ HIDETAG - Tag All Group Members
 ```
 
 **GROUP FEATURES**
